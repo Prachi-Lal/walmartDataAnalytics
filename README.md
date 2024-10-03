@@ -20,8 +20,7 @@ This repository contains a script for analyzing sales data from a Walmart store.
         * Sales trends based on time of day, day of week, and gender.
         * Comparison of sales performance across branches.
         * Identifying top customer types based on revenue and purchases.
-* **(Optional) Data Visualization:** This script doesn't include data visualization. Tools like Tableau or Python libraries (e.g., Matplotlib) can be used to create charts and graphs for further analysis.
-
+          
 ## Running the Script
 
 **1. Prerequisites:**
