@@ -44,6 +44,9 @@ This repository contains a script for analyzing sales data from a Walmart store.
 - Review the script's comments and queries to understand the analysis performed.
 - Modify existing queries or add your own to explore the data further.
 
+[Medium Article](https://medium.com/@plalindia01/walmart-sales-analysis-a-case-study-3c204dd99fd1)
+
+PS This is not my original work. This is rather an attempt at duplication for learning purposes.
 
 This script provides a starting point for analyzing Walmart sales data. You can expand on it to answer more specific questions and gain deeper insights into sales trends and customer behavior.
 
